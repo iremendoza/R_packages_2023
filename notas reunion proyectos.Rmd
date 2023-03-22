@@ -1,0 +1,105 @@
+---
+title: "Notas workshop BIODISPERSE"
+author: "Irene Mendoza"
+date: "2023-03-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ona: BLOOMERS
+
+Bloomers
+Abundancias de comunidades
+Especies microbianas que tienen un bloom
+Datos de composición y de abundancias relativas y globlales
+
+13 años totales: 1 dato mensual
+Alta frecuencia: intensivo durante diez días (verano o invierno)
+
+Función para filtrar por las abundancias totales hecha
+A partir de qué porcentaje de cambio es un bloom o no. 
+
+Habría que hacer el script para analizar los datos temporales. 
+
+No está consensuado qué criterio se va a utilizar para definir un bloomer
+
+
+#Verónica
+
+Postdoc UCM
+Dinámica forestal
+Paquete Easyclimate
+Subir paquete a CRAN con los criterios de calidad
+
+Índices de resiliencia de Paco Lloret
+
+Empaquetar funciones ya hechas
+Índices relisilience, resistence, recuperation.
+
+#Nerea Piñeiro: BLUECAARBON
+
+Suelos de áreas marinas (marismas o praderas)
+
+Flujos y stocks de suelo
+
+Formato script y no se maneja mucho con Git.
+
+Datos de partida: testigos de sedimento, densidad de materia orgánico y carbono. 
+
+RBacon para hacer los modelos de edad
+
+Se estandarizan a un metro
+
+Subsampling de los cores para compensar que los cores no llegan a un metro.
+
+Hay que meter en la función la profundidad del core.
+
+#Ignacio
+
+Tesis UAM. 
+
+Biogeografía con datos vasculares de la Península Ibérica. 
+
+Paquete que está en GitHub: RANTIP
+
+Randomiza especies que no están filognéticamente evaluadas para hacer filogenias. 
+
+#Julia
+
+Tesis UAM
+Plantas tropicales leñosas; índices de diversidad
+
+Índices florísticos
+
+Paquete para hacer etiquetas, tipo mailing list de Word.
+
+Meter una gran base de datos y sacar un resultado gráfico.
+
+Meter QRs, mapas, imágenes...
+
+La función ya está hecha. 
+
+Base de datos no dinámica.
+
+De formulario se pasa a crear una plantilla que luego se imprima (incluso enviar de manera automática a cada una de las personas que ha rellenado el formulario).
+
+Función para las etiquetas con ggplot y un script de Rmarkdown para los certificados.
+
+#Marcia: 
+
+Modelos de distribución de especies, mapas de distribución, y evaluación de modelos de distribución de especies. 
+
+#Mario:
+
+3º de carrera, alumno interno de Paco
+
+
+Propuesta: 
+
+## Taller de Git
+
+Google drive para poder bajar datos de google drive
+
